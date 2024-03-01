@@ -1,0 +1,976 @@
+,countries,incomes
+0,France,100000
+1,Poland,80000
+2,France,90000
+3,France,120000
+4,Poland,70000
+5,France,100000
+6,Germany,90000
+7,Italy,80000
+8,Poland,80000
+9,Poland,100000
+10,France,40000
+11,Poland,120000
+12,Spain,80000
+13,France,90000
+14,France,110000
+15,France,110000
+16,Germany,50000
+17,Italy,110000
+18,Germany,110000
+19,United Kingdom,80000
+20,Germany,70000
+21,France,60000
+22,Spain,140000
+23,United Kingdom,60000
+24,Germany,60000
+25,France,110000
+26,United Kingdom,110000
+27,Spain,90000
+28,Poland,90000
+29,Spain,90000
+30,Italy,70000
+31,Spain,100000
+32,Poland,100000
+33,Poland,100000
+34,Germany,110000
+35,Spain,70000
+36,Germany,90000
+37,Italy,120000
+38,United Kingdom,100000
+39,Spain,80000
+40,France,80000
+41,Poland,110000
+42,United Kingdom,100000
+43,United Kingdom,100000
+44,Germany,120000
+45,Poland,90000
+46,France,60000
+47,Germany,70000
+48,Poland,100000
+49,United Kingdom,70000
+50,Germany,90000
+51,Poland,60000
+52,Italy,80000
+53,United Kingdom,100000
+54,Poland,90000
+55,Germany,70000
+56,Spain,90000
+57,Italy,100000
+58,Spain,90000
+59,United Kingdom,70000
+60,Spain,70000
+61,Germany,90000
+62,France,90000
+63,France,90000
+64,Germany,60000
+65,United Kingdom,80000
+66,United Kingdom,60000
+67,United Kingdom,80000
+68,Poland,80000
+69,Italy,60000
+70,United Kingdom,110000
+71,Germany,110000
+72,United Kingdom,80000
+73,Italy,70000
+74,Spain,90000
+75,Spain,100000
+76,Germany,100000
+77,Spain,90000
+78,Spain,90000
+79,France,90000
+80,Poland,120000
+81,Italy,90000
+82,Germany,130000
+83,Italy,70000
+84,Italy,120000
+85,United Kingdom,100000
+86,Germany,50000
+87,France,40000
+88,Italy,100000
+89,Italy,80000
+90,Poland,100000
+91,United Kingdom,50000
+92,Italy,50000
+93,Spain,90000
+94,United Kingdom,90000
+95,Spain,120000
+96,Germany,80000
+97,Spain,100000
+98,United Kingdom,60000
+99,Poland,100000
+100,United Kingdom,110000
+101,United Kingdom,90000
+102,Germany,90000
+103,Spain,90000
+104,Poland,100000
+105,Poland,80000
+106,United Kingdom,50000
+107,Germany,90000
+108,United Kingdom,50000
+109,Italy,90000
+110,Germany,90000
+111,Germany,70000
+112,France,80000
+113,United Kingdom,90000
+114,France,60000
+115,United Kingdom,80000
+116,France,130000
+117,Poland,80000
+118,France,100000
+119,Germany,90000
+120,Spain,120000
+121,Germany,110000
+122,United Kingdom,60000
+123,United Kingdom,70000
+124,United Kingdom,100000
+125,United Kingdom,90000
+126,Poland,100000
+127,France,110000
+128,United Kingdom,110000
+129,Spain,100000
+130,Spain,70000
+131,Poland,100000
+132,Spain,80000
+133,United Kingdom,110000
+134,United Kingdom,80000
+135,France,100000
+136,United Kingdom,80000
+137,Spain,90000
+138,France,80000
+139,Spain,100000
+140,Spain,130000
+141,Italy,90000
+142,Germany,80000
+143,France,80000
+144,Germany,80000
+145,Poland,80000
+146,Germany,120000
+147,France,90000
+148,Germany,110000
+149,Germany,140000
+150,United Kingdom,70000
+151,United Kingdom,50000
+152,Poland,100000
+153,United Kingdom,50000
+154,Germany,140000
+155,France,100000
+156,Spain,90000
+157,United Kingdom,70000
+158,Italy,80000
+159,Spain,100000
+160,Poland,90000
+161,United Kingdom,80000
+162,Italy,60000
+163,Italy,80000
+164,United Kingdom,110000
+165,Germany,90000
+166,Germany,80000
+167,Germany,70000
+168,Poland,90000
+169,Italy,60000
+170,Spain,110000
+171,Germany,120000
+172,Germany,60000
+173,Poland,120000
+174,France,120000
+175,Germany,90000
+176,United Kingdom,110000
+177,United Kingdom,90000
+178,United Kingdom,70000
+179,Germany,110000
+180,Spain,90000
+181,Italy,30000
+182,France,80000
+183,Poland,100000
+184,United Kingdom,100000
+185,Italy,70000
+186,Spain,90000
+187,United Kingdom,80000
+188,France,80000
+189,United Kingdom,60000
+190,Italy,70000
+191,Poland,110000
+192,United Kingdom,110000
+193,Poland,80000
+194,Italy,110000
+195,Spain,80000
+196,United Kingdom,60000
+197,Poland,120000
+198,Spain,70000
+199,Spain,100000
+200,Spain,80000
+201,Germany,80000
+202,France,100000
+203,Poland,130000
+204,Italy,50000
+205,Italy,70000
+206,Italy,80000
+207,Spain,130000
+208,Italy,70000
+209,France,70000
+210,Germany,80000
+211,France,80000
+212,Germany,80000
+213,France,40000
+214,United Kingdom,110000
+215,Spain,80000
+216,Spain,100000
+217,Spain,110000
+218,United Kingdom,100000
+219,Poland,100000
+220,United Kingdom,50000
+221,United Kingdom,80000
+222,Poland,90000
+223,Poland,100000
+224,United Kingdom,80000
+225,Italy,90000
+226,Spain,90000
+227,Germany,120000
+228,United Kingdom,90000
+229,Germany,90000
+230,Poland,120000
+231,United Kingdom,150000
+232,Germany,110000
+233,France,110000
+234,Germany,70000
+235,France,70000
+236,Germany,80000
+237,Germany,110000
+238,Spain,100000
+239,Spain,70000
+240,Spain,70000
+241,Italy,110000
+242,Germany,70000
+243,United Kingdom,90000
+244,Spain,80000
+245,Poland,100000
+246,United Kingdom,70000
+247,Germany,100000
+248,Spain,60000
+249,Spain,100000
+250,Germany,80000
+251,France,100000
+252,Germany,100000
+253,France,60000
+254,Spain,90000
+255,France,50000
+256,Italy,110000
+257,Spain,90000
+258,United Kingdom,90000
+259,Poland,90000
+260,United Kingdom,80000
+261,United Kingdom,80000
+262,Poland,60000
+263,Italy,100000
+264,France,100000
+265,Spain,120000
+266,Germany,90000
+267,Poland,110000
+268,Poland,100000
+269,Italy,90000
+270,Germany,130000
+271,France,60000
+272,Spain,100000
+273,Spain,90000
+274,Spain,90000
+275,Italy,120000
+276,Italy,110000
+277,Spain,110000
+278,United Kingdom,90000
+279,Germany,50000
+280,United Kingdom,110000
+281,Poland,110000
+282,United Kingdom,110000
+283,Germany,90000
+284,Germany,70000
+285,United Kingdom,120000
+286,Germany,90000
+287,Italy,80000
+288,Germany,90000
+289,Germany,80000
+290,United Kingdom,110000
+291,Germany,80000
+292,Poland,80000
+293,Germany,80000
+294,Germany,100000
+295,United Kingdom,80000
+296,Poland,70000
+297,Spain,80000
+298,France,50000
+299,Poland,100000
+300,Spain,100000
+301,Spain,100000
+302,Poland,60000
+303,Spain,70000
+304,France,50000
+305,France,130000
+306,United Kingdom,130000
+307,Spain,80000
+308,Germany,100000
+309,Poland,130000
+310,Italy,110000
+311,Germany,40000
+312,France,90000
+313,Italy,110000
+314,Poland,120000
+315,United Kingdom,100000
+316,Italy,110000
+317,Spain,80000
+318,Italy,120000
+319,France,160000
+320,United Kingdom,60000
+321,United Kingdom,130000
+322,France,80000
+323,Germany,70000
+324,Italy,110000
+325,Spain,100000
+326,Italy,80000
+327,United Kingdom,110000
+328,Germany,100000
+329,Poland,60000
+330,France,120000
+331,United Kingdom,60000
+332,Spain,120000
+333,Poland,90000
+334,Italy,120000
+335,Germany,90000
+336,France,90000
+337,Poland,120000
+338,France,100000
+339,United Kingdom,100000
+340,United Kingdom,110000
+341,Poland,90000
+342,Spain,100000
+343,Germany,120000
+344,Poland,100000
+345,France,60000
+346,United Kingdom,70000
+347,Poland,70000
+348,Germany,50000
+349,United Kingdom,100000
+350,United Kingdom,50000
+351,Spain,80000
+352,Poland,50000
+353,France,60000
+354,Germany,80000
+355,Poland,120000
+356,Poland,100000
+357,Poland,100000
+358,Germany,130000
+359,Spain,80000
+360,Spain,120000
+361,United Kingdom,80000
+362,Italy,70000
+363,Italy,50000
+364,Poland,90000
+365,Germany,60000
+366,United Kingdom,60000
+367,United Kingdom,100000
+368,United Kingdom,80000
+369,Germany,80000
+370,United Kingdom,100000
+371,Spain,90000
+372,Italy,70000
+373,Italy,90000
+374,Italy,100000
+375,Germany,60000
+376,Poland,60000
+377,Italy,130000
+378,Italy,130000
+379,Poland,100000
+380,United Kingdom,140000
+381,Germany,80000
+382,Spain,80000
+383,Poland,80000
+384,United Kingdom,120000
+385,Italy,100000
+386,France,90000
+387,Germany,140000
+388,Spain,60000
+389,France,100000
+390,France,100000
+391,France,110000
+392,Spain,80000
+393,Germany,70000
+394,United Kingdom,70000
+395,Germany,80000
+396,France,80000
+397,United Kingdom,60000
+398,United Kingdom,80000
+399,United Kingdom,110000
+400,Spain,60000
+401,Spain,60000
+402,Spain,100000
+403,United Kingdom,110000
+404,Spain,80000
+405,France,70000
+406,Poland,110000
+407,Italy,80000
+408,Spain,60000
+409,France,90000
+410,Italy,100000
+411,Poland,110000
+412,Spain,150000
+413,Spain,100000
+414,France,70000
+415,Italy,50000
+416,Spain,120000
+417,Italy,100000
+418,United Kingdom,50000
+419,United Kingdom,100000
+420,France,90000
+421,France,130000
+422,Spain,80000
+423,France,90000
+424,Spain,100000
+425,Spain,100000
+426,France,60000
+427,Italy,70000
+428,Poland,60000
+429,Germany,90000
+430,Poland,100000
+431,Spain,120000
+432,Spain,70000
+433,Poland,110000
+434,Spain,80000
+435,United Kingdom,60000
+436,United Kingdom,60000
+437,Poland,130000
+438,Poland,90000
+439,United Kingdom,100000
+440,Spain,60000
+441,Germany,50000
+442,Germany,90000
+443,United Kingdom,110000
+444,Germany,60000
+445,Germany,70000
+446,Spain,90000
+447,United Kingdom,60000
+448,United Kingdom,100000
+449,Italy,110000
+450,Spain,90000
+451,Italy,90000
+452,United Kingdom,90000
+453,Poland,100000
+454,Spain,90000
+455,France,130000
+456,Italy,60000
+457,Italy,90000
+458,Poland,50000
+459,Spain,70000
+460,Germany,90000
+461,United Kingdom,70000
+462,Poland,90000
+463,Poland,80000
+464,France,100000
+465,Germany,120000
+466,Italy,100000
+467,Spain,50000
+468,Spain,110000
+469,Italy,120000
+470,France,100000
+471,Spain,120000
+472,United Kingdom,100000
+473,France,140000
+474,Poland,100000
+475,France,100000
+476,United Kingdom,70000
+477,Germany,110000
+478,France,80000
+479,France,80000
+480,Germany,60000
+481,United Kingdom,80000
+482,Spain,120000
+483,Italy,100000
+484,Germany,90000
+485,United Kingdom,80000
+486,Poland,100000
+487,Poland,50000
+488,Spain,110000
+489,Spain,80000
+490,Italy,80000
+491,United Kingdom,60000
+492,Poland,110000
+493,United Kingdom,90000
+494,United Kingdom,60000
+495,United Kingdom,80000
+496,Germany,70000
+497,Poland,80000
+498,Germany,70000
+499,France,70000
+500,Germany,70000
+501,Germany,120000
+502,France,40000
+503,United Kingdom,80000
+504,Italy,90000
+505,Italy,80000
+506,Italy,60000
+507,Italy,80000
+508,Germany,80000
+509,United Kingdom,80000
+510,Poland,60000
+511,Germany,70000
+512,Poland,110000
+513,Poland,100000
+514,Germany,60000
+515,Poland,70000
+516,Germany,120000
+517,United Kingdom,90000
+518,Italy,90000
+519,United Kingdom,50000
+520,France,100000
+521,Spain,110000
+522,Italy,110000
+523,France,130000
+524,Poland,100000
+525,Spain,70000
+526,Poland,80000
+527,Spain,70000
+528,United Kingdom,120000
+529,Poland,80000
+530,France,110000
+531,Italy,90000
+532,Germany,50000
+533,France,100000
+534,Poland,70000
+535,Poland,70000
+536,Spain,70000
+537,Germany,90000
+538,France,80000
+539,France,110000
+540,Spain,110000
+541,Poland,110000
+542,Poland,70000
+543,Italy,90000
+544,Spain,100000
+545,Italy,100000
+546,Spain,80000
+547,France,50000
+548,Spain,90000
+549,Italy,130000
+550,Italy,60000
+551,United Kingdom,60000
+552,France,110000
+553,Spain,70000
+554,United Kingdom,90000
+555,United Kingdom,100000
+556,France,80000
+557,France,100000
+558,Italy,90000
+559,Spain,100000
+560,Spain,90000
+561,Poland,70000
+562,Germany,20000
+563,United Kingdom,130000
+564,United Kingdom,70000
+565,France,90000
+566,Italy,60000
+567,Spain,110000
+568,Italy,70000
+569,France,80000
+570,United Kingdom,100000
+571,Poland,100000
+572,United Kingdom,70000
+573,Spain,80000
+574,Italy,80000
+575,Poland,80000
+576,United Kingdom,70000
+577,Italy,90000
+578,Italy,100000
+579,Spain,130000
+580,France,40000
+581,France,120000
+582,France,110000
+583,Poland,70000
+584,Germany,70000
+585,Spain,70000
+586,United Kingdom,70000
+587,United Kingdom,90000
+588,Italy,70000
+589,United Kingdom,90000
+590,Italy,60000
+591,Poland,80000
+592,Germany,100000
+593,Poland,100000
+594,Germany,80000
+595,Italy,100000
+596,Germany,90000
+597,Italy,100000
+598,Germany,110000
+599,Poland,110000
+600,United Kingdom,110000
+601,Germany,90000
+602,United Kingdom,110000
+603,Spain,100000
+604,France,70000
+605,Italy,90000
+606,Spain,80000
+607,United Kingdom,100000
+608,Poland,80000
+609,United Kingdom,80000
+610,United Kingdom,110000
+611,Spain,110000
+612,Italy,100000
+613,United Kingdom,50000
+614,Italy,90000
+615,United Kingdom,80000
+616,Poland,60000
+617,Poland,90000
+618,United Kingdom,120000
+619,Poland,100000
+620,United Kingdom,80000
+621,Germany,110000
+622,France,70000
+623,Spain,80000
+624,United Kingdom,80000
+625,Spain,90000
+626,Spain,80000
+627,United Kingdom,80000
+628,Italy,80000
+629,Italy,120000
+630,Germany,100000
+631,United Kingdom,120000
+632,Spain,100000
+633,United Kingdom,60000
+634,Spain,70000
+635,Poland,90000
+636,Italy,90000
+637,Spain,120000
+638,Italy,120000
+639,Italy,110000
+640,France,130000
+641,Spain,110000
+642,Poland,100000
+643,Germany,60000
+644,Germany,90000
+645,Italy,80000
+646,Italy,80000
+647,Germany,90000
+648,United Kingdom,100000
+649,France,100000
+650,Germany,90000
+651,France,70000
+652,United Kingdom,140000
+653,Spain,60000
+654,Spain,90000
+655,France,100000
+656,Germany,80000
+657,Spain,100000
+658,France,70000
+659,Spain,70000
+660,France,60000
+661,France,80000
+662,France,100000
+663,Spain,110000
+664,Spain,110000
+665,Germany,100000
+666,Italy,140000
+667,Italy,90000
+668,Spain,80000
+669,France,90000
+670,Poland,80000
+671,United Kingdom,80000
+672,Italy,90000
+673,Poland,100000
+674,Germany,90000
+675,Poland,130000
+676,United Kingdom,40000
+677,Italy,100000
+678,France,90000
+679,United Kingdom,130000
+680,United Kingdom,100000
+681,United Kingdom,120000
+682,Poland,90000
+683,Germany,100000
+684,Italy,100000
+685,Poland,90000
+686,Germany,50000
+687,Spain,100000
+688,Poland,100000
+689,Italy,80000
+690,Spain,60000
+691,Germany,120000
+692,Poland,100000
+693,Italy,60000
+694,Poland,30000
+695,Italy,110000
+696,United Kingdom,120000
+697,Germany,70000
+698,Spain,110000
+699,Spain,70000
+700,United Kingdom,90000
+701,France,110000
+702,France,100000
+703,Germany,90000
+704,France,80000
+705,Germany,90000
+706,Poland,90000
+707,Germany,90000
+708,United Kingdom,70000
+709,Spain,60000
+710,France,70000
+711,Poland,80000
+712,Spain,80000
+713,Spain,60000
+714,Poland,90000
+715,Poland,110000
+716,United Kingdom,90000
+717,France,100000
+718,Spain,110000
+719,Poland,90000
+720,United Kingdom,60000
+721,United Kingdom,80000
+722,France,60000
+723,United Kingdom,110000
+724,Germany,30000
+725,Poland,100000
+726,France,70000
+727,Germany,90000
+728,Poland,90000
+729,United Kingdom,60000
+730,Poland,100000
+731,Germany,80000
+732,United Kingdom,70000
+733,France,110000
+734,United Kingdom,120000
+735,Poland,70000
+736,France,110000
+737,United Kingdom,90000
+738,Italy,100000
+739,Italy,110000
+740,Italy,110000
+741,United Kingdom,60000
+742,United Kingdom,60000
+743,Italy,100000
+744,France,100000
+745,Germany,70000
+746,France,120000
+747,Italy,110000
+748,Spain,60000
+749,Germany,70000
+750,Poland,100000
+751,United Kingdom,100000
+752,Italy,90000
+753,Spain,100000
+754,Italy,110000
+755,France,70000
+756,Poland,70000
+757,Germany,80000
+758,Poland,110000
+759,United Kingdom,80000
+760,Italy,70000
+761,Poland,70000
+762,Poland,70000
+763,France,110000
+764,Spain,100000
+765,Italy,70000
+766,United Kingdom,100000
+767,France,100000
+768,Poland,60000
+769,Italy,80000
+770,Spain,90000
+771,Poland,110000
+772,Spain,60000
+773,Italy,150000
+774,Germany,80000
+775,United Kingdom,70000
+776,United Kingdom,80000
+777,Spain,90000
+778,Spain,100000
+779,Spain,110000
+780,Poland,60000
+781,Germany,110000
+782,Poland,100000
+783,Spain,100000
+784,United Kingdom,80000
+785,Italy,110000
+786,United Kingdom,90000
+787,Poland,100000
+788,United Kingdom,80000
+789,Spain,90000
+790,France,90000
+791,Germany,120000
+792,United Kingdom,80000
+793,United Kingdom,80000
+794,United Kingdom,70000
+795,Germany,110000
+796,Spain,50000
+797,United Kingdom,70000
+798,Italy,90000
+799,Spain,90000
+800,United Kingdom,100000
+801,Spain,70000
+802,Germany,70000
+803,France,110000
+804,Spain,70000
+805,France,80000
+806,France,90000
+807,Poland,110000
+808,Poland,50000
+809,United Kingdom,90000
+810,Spain,90000
+811,France,90000
+812,Germany,100000
+813,Germany,90000
+814,France,70000
+815,Poland,80000
+816,Germany,80000
+817,Germany,100000
+818,United Kingdom,100000
+819,Italy,70000
+820,Italy,100000
+821,Germany,60000
+822,Spain,90000
+823,Germany,60000
+824,Spain,80000
+825,Poland,100000
+826,United Kingdom,90000
+827,Germany,90000
+828,Italy,100000
+829,Spain,110000
+830,Spain,70000
+831,Germany,60000
+832,Poland,60000
+833,Spain,70000
+834,Italy,80000
+835,France,100000
+836,Poland,60000
+837,Spain,90000
+838,Germany,100000
+839,Italy,100000
+840,Germany,100000
+841,Spain,100000
+842,Italy,80000
+843,United Kingdom,100000
+844,Poland,80000
+845,France,70000
+846,Germany,90000
+847,Germany,90000
+848,Germany,100000
+849,United Kingdom,70000
+850,Germany,90000
+851,Germany,110000
+852,Poland,80000
+853,Germany,100000
+854,Poland,80000
+855,United Kingdom,100000
+856,Germany,80000
+857,Spain,110000
+858,France,100000
+859,United Kingdom,120000
+860,France,100000
+861,Spain,110000
+862,Poland,80000
+863,Germany,100000
+864,Italy,60000
+865,Spain,50000
+866,Spain,90000
+867,Italy,110000
+868,Italy,80000
+869,United Kingdom,80000
+870,Germany,70000
+871,France,80000
+872,Poland,90000
+873,United Kingdom,100000
+874,Poland,100000
+875,Italy,110000
+876,Germany,70000
+877,France,80000
+878,United Kingdom,110000
+879,Italy,80000
+880,France,90000
+881,Italy,90000
+882,Italy,90000
+883,United Kingdom,90000
+884,Poland,90000
+885,Spain,90000
+886,United Kingdom,90000
+887,United Kingdom,100000
+888,Poland,60000
+889,Germany,100000
+890,Spain,100000
+891,Spain,100000
+892,Spain,90000
+893,France,110000
+894,United Kingdom,90000
+895,Germany,90000
+896,Italy,120000
+897,Germany,130000
+898,France,60000
+899,France,140000
+900,United Kingdom,80000
+901,Italy,70000
+902,Italy,110000
+903,Germany,100000
+904,Poland,100000
+905,Germany,60000
+906,Spain,70000
+907,Poland,90000
+908,Germany,50000
+909,United Kingdom,130000
+910,Germany,50000
+911,Poland,90000
+912,Germany,80000
+913,United Kingdom,80000
+914,Poland,110000
+915,France,70000
+916,Italy,130000
+917,Poland,110000
+918,Germany,90000
+919,United Kingdom,100000
+920,Poland,120000
+921,Poland,90000
+922,Poland,80000
+923,Germany,70000
+924,Germany,100000
+925,France,60000
+926,France,110000
+927,France,70000
+928,Germany,100000
+929,Poland,70000
+930,Germany,110000
+931,United Kingdom,90000
+932,France,130000
+933,Spain,100000
+934,Spain,110000
+935,Germany,80000
+936,Spain,90000
+937,Germany,70000
+938,Italy,130000
+939,Germany,80000
+940,Spain,90000
+941,Germany,100000
+942,Poland,110000
+943,Spain,90000
+944,Spain,100000
+945,Spain,90000
+946,Italy,110000
+947,Germany,90000
+948,Germany,100000
+949,France,100000
+950,United Kingdom,70000
+951,Germany,50000
+952,France,90000
+953,Spain,130000
+954,Italy,90000
+955,United Kingdom,100000
+956,Italy,90000
+957,Poland,70000
+958,Italy,110000
+959,Italy,110000
+960,Italy,70000
+961,Italy,130000
+962,Germany,110000
+963,Italy,90000
+964,United Kingdom,110000
+965,Italy,110000
+966,Poland,70000
+967,Italy,80000
+968,Germany,90000
+969,United Kingdom,80000
+970,Germany,90000
+971,Italy,90000
+972,United Kingdom,80000
+973,United Kingdom,60000
+974,Spain,110000

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %} Login page {% endblock %}
+{% block color %} {{color}} {% endblock %}
+{% block settings %} <link rel="stylesheet" type="tetx/css" href="{{ url_for('static', filename='styles/style.css') }}"/>
+<link rel="icon" href="{{url_for('static',filename='images/icons/login.ico')}}">
+{% endblock %}
+{% block content %}
+   
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category,msg in messages %}
+                {% if category == "error" %}
+                    <div class="alert alert-danger" role="alert">
+                        {{msg}}
+                    </div>
+                {% elif category == "info" %}
+                    <div class="alert alert-success" role="alert">
+                        {{msg}}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    <form action="#" method="POST">
+        <p>Name:</p>
+        <p><input type="text" name="nm" placeholder="Name:"/></p>
+        <p><input type="submit" value="Login" /></p>
+    </form>
+
+
+{% endblock %}
+

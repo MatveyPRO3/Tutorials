@@ -1,0 +1,6 @@
+{'id': 1, 'first_name': 'Marcus', 'last_name': 'Ray', 'date_of_birth': '1980-06-16', 'country': 'United Kingdom', 'married': True, 'job': 'Dramatherapist', 'income_in_year': '94000$', 'total_property_cost': '2000000$'}
+{'id': 3, 'first_name': 'Lisa', 'last_name': 'Scott', 'date_of_birth': '1992-10-25', 'country': 'France', 'married': False, 'job': 'Research scientist (life sciences)', 'income_in_year': '68000$', 'total_property_cost': '285000$'}
+{'id': 5, 'first_name': 'Megan', 'last_name': 'Powell', 'date_of_birth': '1971-09-14', 'country': 'Germany', 'married': False, 'job': 'Community pharmacist', 'income_in_year': '27000$', 'total_property_cost': '648000$'}
+
+
+more data...

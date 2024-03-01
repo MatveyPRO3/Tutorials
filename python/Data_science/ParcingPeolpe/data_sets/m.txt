@@ -1,0 +1,6 @@
+{'id': 1, 'first_name': 'Anthony', 'last_name': 'Miller', 'date_of_birth': '1942-06-18', 'country': 'France', 'married': True, 'job': 'Astronomer', 'income_in_year': '100826$', 'total_property_cost': '641662$'}
+{'id': 2, 'first_name': 'Walter', 'last_name': 'Henry', 'date_of_birth': '1985-11-17', 'country': 'Italy', 'married': False, 'job': 'Firefighter', 'income_in_year': '61818$', 'total_propertast_name': 'Fisher', 'date_of_birth': '1962-05-14', 'country': 'Poland', 'married': True, 'job': 'Health promotion specialist', 'income_in_year': '76112$', 'total_property_cost': '1907200$'}
+{'id': 7, 'first_name': 'Michael', 'last_name': 'Munoz', 'date_of_birth': '1986-12-28', 'country': 'France', 'married': False, 'job': 'Clinical molecular geneticist', 'income_in_year': '88208$', 'total_property_cost': '441762$'}
+
+
+more data...

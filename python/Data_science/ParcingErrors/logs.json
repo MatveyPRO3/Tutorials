@@ -1,0 +1,6 @@
+{"type":"log","level":"INFO","time":"2021-05-12T12:07:04Z","log":{"message":"JSON in ZTS func to send: {{ion-s-1-worker-01 nef-daco-0 aa9511e2-66b5-4670-bc92-aec43279e013 daco nef {daco daco-0.0.177-719d356 nef}} log ion-s-1-worker-01 DEBUG nef BCMT ID BCMT 2021-05-12T12:07:04.612Z  {DRA found} {} {0        []}}"}}
+{"type":"log","level":"INFO","time":"2021-05-12T12:07:04Z","log":{"message":"ZTS Response Error"}}
+{"type":"log","level":"INFO","time":"2021-05-12T12:07:04Z","log":{"message":"ZTS Response Details: ZTS mock server default response. Received request: {\"resource_name\":\"Event.Log\",\"event\":{\"event_source\":\"Release/major:21|minor:2.0/VNFType/NEF/VNFs/nefns/VNFCType/DACO/VNFCs/nef-daco-0/Containers/daco\",\"event_time_stamp\":\"2021-05-12T12:07:04.612Z\",\"LogEventBatch\":{\"NEF_LOGS\":{\"logList\":[{\"log_severity\":2,\"log_message\":\"DRA found\",\"process_id\":\"nef-daco-0\",\"log_event_time_stamp\":\"2021-05-12T12:07:04.612Z\"}]}}}}"}}
+
+
+more data...

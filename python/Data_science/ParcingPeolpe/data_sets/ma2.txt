@@ -1,0 +1,6 @@
+{'id': 1, 'first_name': 'Brandi', 'last_name': 'Carrillo', 'date_of_birth': '1960-07-24', 'country': 'United Kingdom', 'married': True, 'job': 'Facilities manager', 'income_in_year': '91019$', 'total_property_cost': '1455720$', 'sex': '_male_'}
+{'id': 2, 'first_name': 'Tina', 'last_name': 'Wilkinson', 'date_of_birth': '1956-11-03', 'country': 'Spain', 'married': True, 'job': 'Surveyor, building', 'income_in_year': '95324$', 'total_property_cost': '1390384$', 'sex': '_male_'}
+{'id': 3, 'first_name': 'Ms.', 'last_name': 'Dawn', 'date_of_birth': '1965-01-02', 'country': 'Italy', 'married': False, 'job': 'Surveyor, commercial/residential', 'income_in_year': '70698$', 'total_property_cost': '1158540$', 'sex': 'female'}
+
+
+more data...

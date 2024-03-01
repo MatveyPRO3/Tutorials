@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %} View page {% endblock %}
+{% block color %} {{color}} {% endblock %}
+{% block settings %}<link rel="icon" href="{{url_for('static',filename='images/icons/view.ico')}}">{% endblock %}
+{% block content %} 
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category,msg in messages %}
+                {% if category == "error" %}
+                    <div class="alert alert-danger" role="alert">
+                        {{msg}}
+                    </div>
+                {% elif category == "info" %}
+                    <div class="alert alert-success" role="alert">
+                        {{msg}}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    
+    {% if not values %}
+        <div class="alert alert-primary" role="alert">
+            No users in database.
+        </div>
+    {% else %}
+        <ul class="list-group">
+            
+            {% for i in values %} 
+                {% if i.name != you %}
+                    <li class="list-group-item ">Name: {{i.name}} Email: {{i.email}} Color: {{i.color}}</li>    
+                {% else %}
+                    <li class="list-group-item active">Name: {{i.name}} Email: {{i.email}} Color: {{i.color}}</li>    
+                {% endif %}
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock %}
+

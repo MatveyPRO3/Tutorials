@@ -1,0 +1,7 @@
+{'id': 1, 'first_name': 'Lori', 'last_name': 'Allen', 'date_of_birth': '1959-07-27', 'country': 'Italy', 'married': False, 'job': 'Therapist, sports', 'income_in_year': '59000$', 'total_property_cost': '696000$'}
+{'id': 3, 'first_name': 'Mikayla', 'last_name': 'Farmer', 'date_of_birth': '1966-08-10', 'country': 'France', 'married': True, 'job': 'Paediatric nurse', 'income_in_year': '111000$', 'total_property_cost': '588000$'}
+{'id': 5, 'first_name': 'William', 'last_name': 'Harris', 'date_of_birth': '1958-10-06', 'country': 'France', 'married': True, 'job': 'Comptroller', 'income_in_year': '55000$', 'total_property_cost': '252000$'}
+
+
+
+more data...

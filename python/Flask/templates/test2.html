@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Test page</title>
+    <link href="{{ url_for('static', filename='styles/style.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <p>Some text!</p>
+    <p id="myid">This is the test page!</p>
+    <img src="{{ url_for('static', filename='images/background.jpg') }}" />
+</body>
+
+</html>

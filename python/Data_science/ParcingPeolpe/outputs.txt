@@ -1,0 +1,41 @@
+Can't read line {'id': 250, 'first_name': 'Micheal', 'last_name': 'Callahan', 'date_of_birth': '1945-10-30', 'country': 'Poland', 'married': False, 'job': 'Town planner', 'income_in_year': '100832$', 'total_property_cost': '20name': 'Hutchinson', 'date_of_birth': '1964-07-25', 'country': 'Germany', 'married': False, 'job': 'Broadcast journalist', 'income_in_year': '89642$', 'total_property_cost': '1101456$'}
+because it is damaged
+Occurred exception: invalid syntax (<string>, line 1)
+--------------------
+
+Can't read line {'id': 955, 'first_name': 'Alejandro, 'last_name': 'Evans', 'date_of_birth': '1985-12-31', 'country': 'Italy', 'married': False, 'job': 'Editor, commissioning', 'income_in_year': '92686$', 'total_property_cost': '1354720$'}
+because it is damaged
+Occurred exception: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+--------------------
+
+Can't read line {'id': 968, 'first_name': 'Loretta', 'last_name': 'Ward', 'date_of_birth': '1963-01-31', 'country': arried': True, 'job': 'Tree surgeon', 'income_in_year': '111943$', 'total_property_cost': '1340544$'}
+because it is damaged
+Occurred exception: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+--------------------
+
+Can't read line {'id': 970, 'first_name': 'Kevin', 'last_name': 'Rivera', 'date_of_birth': '1970-06-15', 'country': 'United Kingdom', 'married': False, 'job': 'Engineer, technical sales', 'income_in_year': '1last_name': 'Collins', 'date_of_birth': '1948-06-03', 'country': 'Poland', 'married': False, 'job': 'Plant breeder/geneticist', 'income_in_year': '128874$', 'total_property_cost': '1511840$'}
+because it is damaged
+Occurred exception: invalid syntax (<string>, line 1)
+--------------------
+
+Can't read line {'id': 977, 'first_name': 'Michael', 'lasame': 'Soto', 'date_of_birth': 62, 'country': 'Poland', 'married': False, 'job': 'Teacher, special educational needs', 'income_in_year': '81278$', 'total_property_cost': '1168349$'}because it is damaged
+Occurred exception: 'last_name'
+--------------------
+
+Can't read line {'id': 983, 'first_name': 'Cynthia', 'last_name': 'Thompson', 'date_of_birth': '1949-05-20', 'country':ome_in_year': '80703$', 'total_property_cost': '1179340$'}
+because it is damaged
+Occurred exception: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+--------------------
+
+Can't read line {'id': 991, 'first_name': 'Justin', 'last_name': 'Jacobs', 'date_of_birth': '1997-11-14', 'country': 'United King'last_name': 'Rodriguez', 'date_of_birth': '1987-05-01', 'country': 'Germany', 'married': True, 'job': 'Magazine features editor', 'income_in_year': '72697$', 'total_property_cost': '1450320$'}
+because it is damaged
+Occurred exception: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+--------------------
+
+Can't read line {'id': 1000, 'first_name': 'Cynthia', 'last_name': 'Blake', 'date_of_birth': '1952-04-08', 'country': 'France', 'married': False, 'job': 'Purchasing manager', 'income_in_year': '63423$', 'total_property_cost': '2699950$'
+because it is damaged
+Occurred exception: '{' was never closed (<string>, line 1)
+--------------------
+
+Dataframes created successfully 
+Damaged lines: 8

@@ -1,0 +1,378 @@
+countries,age,income
+France,18,0.0
+France,19,84387.8
+France,20,120422.0
+France,21,64533.0
+France,22,98767.0
+France,23,0.0
+France,24,107858.75
+France,25,125613.0
+France,26,84487.33333333333
+France,27,0.0
+France,28,56915.0
+France,29,74615.4
+France,30,109051.5
+France,31,98324.0
+France,32,72599.5
+France,33,75088.0
+France,34,82870.0
+France,35,104779.0
+France,36,93709.0
+France,37,83144.5
+France,38,105198.0
+France,39,82132.33333333333
+France,40,105717.33333333333
+France,41,85507.66666666667
+France,42,76449.66666666667
+France,43,115296.75
+France,44,97059.6
+France,45,79063.5
+France,46,0.0
+France,47,92675.0
+France,48,96907.75
+France,49,0.0
+France,50,96488.33333333333
+France,51,96471.5
+France,52,68942.0
+France,53,105212.0
+France,54,88949.33333333333
+France,55,92920.0
+France,56,0.0
+France,57,91301.5
+France,58,101835.0
+France,59,102489.33333333333
+France,60,93266.0
+France,61,75344.0
+France,62,90270.33333333333
+France,63,91696.0
+France,64,93620.0
+France,65,84021.0
+France,66,70303.5
+France,67,59184.5
+France,68,132431.0
+France,69,78368.5
+France,70,69885.0
+France,71,101149.5
+France,72,101496.5
+France,73,76606.0
+France,74,0.0
+France,75,90462.0
+France,76,71757.0
+France,77,77725.5
+France,78,101958.0
+France,79,0.0
+France,80,42885.0
+Poland,18,0.0
+Poland,19,94743.625
+Poland,20,82645.0
+Poland,21,0.0
+Poland,22,87653.0
+Poland,23,84998.0
+Poland,24,77489.0
+Poland,25,84975.0
+Poland,26,94033.0
+Poland,27,79090.75
+Poland,28,104689.0
+Poland,29,99605.0
+Poland,30,0.0
+Poland,31,78442.0
+Poland,32,58741.0
+Poland,33,79631.0
+Poland,34,86400.2
+Poland,35,81521.0
+Poland,36,90217.5
+Poland,37,75518.33333333333
+Poland,38,101579.5
+Poland,39,0.0
+Poland,40,79566.0
+Poland,41,78560.66666666667
+Poland,42,104381.0
+Poland,43,105715.0
+Poland,44,81092.33333333333
+Poland,45,107662.0
+Poland,46,96127.14285714286
+Poland,47,107584.0
+Poland,48,99842.0
+Poland,49,74088.33333333333
+Poland,50,95433.5
+Poland,51,0.0
+Poland,52,84507.0
+Poland,53,106270.0
+Poland,54,91466.0
+Poland,55,108279.0
+Poland,56,97399.25
+Poland,57,82476.75
+Poland,58,104756.5
+Poland,59,0.0
+Poland,60,95354.0
+Poland,61,91871.5
+Poland,62,93245.5
+Poland,63,92421.8
+Poland,64,81135.66666666667
+Poland,65,128407.0
+Poland,66,74430.2
+Poland,67,85314.0
+Poland,68,101997.5
+Poland,69,0.0
+Poland,70,103767.0
+Poland,71,90416.33333333333
+Poland,72,86757.0
+Poland,73,94119.33333333333
+Poland,74,95951.0
+Poland,75,81798.5
+Poland,76,94501.5
+Poland,77,109547.0
+Poland,78,0.0
+Poland,79,0.0
+Poland,80,0.0
+Germany,18,0.0
+Germany,19,101634.0
+Germany,20,78610.33333333333
+Germany,21,91483.25
+Germany,22,105423.5
+Germany,23,77741.0
+Germany,24,73564.2
+Germany,25,78979.0
+Germany,26,51237.0
+Germany,27,79103.5
+Germany,28,86001.0
+Germany,29,92418.0
+Germany,30,88452.0
+Germany,31,96552.0
+Germany,32,101159.66666666667
+Germany,33,95525.0
+Germany,34,82686.57142857143
+Germany,35,132163.0
+Germany,36,68877.5
+Germany,37,80104.0
+Germany,38,101524.66666666667
+Germany,39,78765.0
+Germany,40,78727.4
+Germany,41,71779.0
+Germany,42,102597.0
+Germany,43,48522.0
+Germany,44,0.0
+Germany,45,122971.0
+Germany,46,87303.33333333333
+Germany,47,103820.33333333333
+Germany,48,0.0
+Germany,49,83644.66666666667
+Germany,50,108950.5
+Germany,51,89160.28571428571
+Germany,52,78464.0
+Germany,53,58181.0
+Germany,54,89385.0
+Germany,55,60420.5
+Germany,56,82672.6
+Germany,57,87140.5
+Germany,58,79942.0
+Germany,59,87283.0
+Germany,60,103227.66666666667
+Germany,61,87856.5
+Germany,62,86962.75
+Germany,63,50654.0
+Germany,64,83977.0
+Germany,65,81325.33333333333
+Germany,66,60372.666666666664
+Germany,67,105283.66666666667
+Germany,68,115395.0
+Germany,69,82418.0
+Germany,70,66982.0
+Germany,71,62676.0
+Germany,72,82373.66666666667
+Germany,73,85895.8
+Germany,74,90655.5
+Germany,75,109099.66666666667
+Germany,76,90916.5
+Germany,77,91806.75
+Germany,78,91436.0
+Germany,79,79046.75
+Germany,80,101733.5
+Italy,18,84376.0
+Italy,19,112127.5
+Italy,20,95615.25
+Italy,21,0.0
+Italy,22,98156.25
+Italy,23,88265.33333333333
+Italy,24,90694.33333333333
+Italy,25,81210.0
+Italy,26,93671.0
+Italy,27,83050.0
+Italy,28,103012.0
+Italy,29,83152.5
+Italy,30,0.0
+Italy,31,106960.5
+Italy,32,94749.75
+Italy,33,72817.0
+Italy,34,76645.33333333333
+Italy,35,89527.8
+Italy,36,93652.0
+Italy,37,119493.33333333333
+Italy,38,104993.5
+Italy,39,91539.0
+Italy,40,100556.0
+Italy,41,64024.0
+Italy,42,94475.33333333333
+Italy,43,86787.4
+Italy,44,109029.0
+Italy,45,73360.5
+Italy,46,86693.5
+Italy,47,108556.5
+Italy,48,100747.0
+Italy,49,0.0
+Italy,50,0.0
+Italy,51,85644.5
+Italy,52,96713.25
+Italy,53,0.0
+Italy,54,0.0
+Italy,55,102236.0
+Italy,56,116989.5
+Italy,57,86812.0
+Italy,58,92365.5
+Italy,59,68059.0
+Italy,60,85773.0
+Italy,61,0.0
+Italy,62,61358.0
+Italy,63,85456.0
+Italy,64,81254.5
+Italy,65,84594.0
+Italy,66,105106.0
+Italy,67,117308.0
+Italy,68,79386.0
+Italy,69,107754.0
+Italy,70,89250.5
+Italy,71,70118.0
+Italy,72,0.0
+Italy,73,101861.5
+Italy,74,90597.83333333333
+Italy,75,83520.0
+Italy,76,82879.0
+Italy,77,0.0
+Italy,78,95701.0
+Italy,79,96599.4
+Italy,80,106331.0
+Spain,18,0.0
+Spain,19,90295.0
+Spain,20,0.0
+Spain,21,79901.66666666667
+Spain,22,92822.33333333333
+Spain,23,86941.0
+Spain,24,95222.0
+Spain,25,101468.0
+Spain,26,98544.66666666667
+Spain,27,73408.0
+Spain,28,95929.66666666667
+Spain,29,110912.0
+Spain,30,82334.0
+Spain,31,102844.5
+Spain,32,87431.6
+Spain,33,86730.66666666667
+Spain,34,91315.6
+Spain,35,116396.0
+Spain,36,96138.5
+Spain,37,91958.4
+Spain,38,89451.5
+Spain,39,93426.5
+Spain,40,100884.5
+Spain,41,89004.25
+Spain,42,83113.8
+Spain,43,74366.0
+Spain,44,106839.0
+Spain,45,88353.5
+Spain,46,103148.5
+Spain,47,110580.66666666667
+Spain,48,74466.66666666667
+Spain,49,82362.2
+Spain,50,81722.0
+Spain,51,87525.0
+Spain,52,108320.0
+Spain,53,0.0
+Spain,54,92993.0
+Spain,55,78056.0
+Spain,56,93553.5
+Spain,57,82402.5
+Spain,58,107282.66666666667
+Spain,59,76949.0
+Spain,60,87801.2
+Spain,61,82591.66666666667
+Spain,62,0.0
+Spain,63,89301.5
+Spain,64,82740.0
+Spain,65,98033.5
+Spain,66,87550.0
+Spain,67,77348.5
+Spain,68,0.0
+Spain,69,0.0
+Spain,70,100015.0
+Spain,71,91421.0
+Spain,72,93281.0
+Spain,73,83587.25
+Spain,74,98561.25
+Spain,75,95788.2
+Spain,76,89218.0
+Spain,77,150899.0
+Spain,78,97311.0
+Spain,79,77909.0
+Spain,80,82708.8
+United Kingdom,18,0.0
+United Kingdom,19,83890.33333333333
+United Kingdom,20,87361.0
+United Kingdom,21,97272.0
+United Kingdom,22,60285.5
+United Kingdom,23,80390.0
+United Kingdom,24,74002.5
+United Kingdom,25,105681.0
+United Kingdom,26,88261.5
+United Kingdom,27,95265.66666666667
+United Kingdom,28,81709.5
+United Kingdom,29,77267.5
+United Kingdom,30,83112.5
+United Kingdom,31,81375.75
+United Kingdom,32,72892.0
+United Kingdom,33,88072.8
+United Kingdom,34,92058.8
+United Kingdom,35,87028.33333333333
+United Kingdom,36,95551.5
+United Kingdom,37,84780.0
+United Kingdom,38,81173.5
+United Kingdom,39,106509.5
+United Kingdom,40,89863.75
+United Kingdom,41,94583.0
+United Kingdom,42,91048.0
+United Kingdom,43,92976.0
+United Kingdom,44,92623.0
+United Kingdom,45,76358.0
+United Kingdom,46,92214.5
+United Kingdom,47,100426.8
+United Kingdom,48,80283.5
+United Kingdom,49,85881.66666666667
+United Kingdom,50,75961.0
+United Kingdom,51,82004.0
+United Kingdom,52,97263.0
+United Kingdom,53,100680.0
+United Kingdom,54,65919.5
+United Kingdom,55,77976.66666666667
+United Kingdom,56,95929.0
+United Kingdom,57,76360.42857142857
+United Kingdom,58,101201.0
+United Kingdom,59,107511.0
+United Kingdom,60,68533.0
+United Kingdom,61,58888.5
+United Kingdom,62,106431.5
+United Kingdom,63,75038.0
+United Kingdom,64,84296.0
+United Kingdom,65,77903.0
+United Kingdom,66,94235.0
+United Kingdom,67,73626.33333333333
+United Kingdom,68,84615.5
+United Kingdom,69,79070.0
+United Kingdom,70,103991.0
+United Kingdom,71,82036.33333333333
+United Kingdom,72,77243.0
+United Kingdom,73,96472.0
+United Kingdom,74,92975.0
+United Kingdom,75,85792.8
+United Kingdom,76,99113.5
+United Kingdom,77,84600.0
+United Kingdom,78,92380.5
+United Kingdom,79,79192.75

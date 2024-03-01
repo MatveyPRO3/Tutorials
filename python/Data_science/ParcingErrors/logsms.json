@@ -1,0 +1,9 @@
+{"type":"log","level":"INFO","time":"2021-06-03T14:35:54Z","log":{"message":"ZTS Response Details: ZTS mock server default response. Received request: {\"resource_name\":\"Event.Log\",\"event\":{\"event_source\":\"Release/major:21|minor:2.0/VNFType/NEF/VNFs/nef1/VNFCType/DACO/VNFCs/nef-daco-0/Containers/daco\",\"event_time_stamp\":\"2021-06-03T14:35:53.877Z\",\"LogEventBatch\":{\"NEF_LOGS\":{\"logList\":[{\"log_severity\":2,\"log_message\":\"RAR: Sent answer to 192.168.125.13:37356\",\"process_id\":\"nef-daco-0\",\"log_event_time_stamp\":\"2021-06-03T14:35:53.877Z\"}]}}}}"}}
+{"type":"log","level":"INFO","time":"2021-06-03T14:35:54Z","log":{"message":"JSON in ZTS func to send: {{ion-s-1-worker-01 nef-daco-0 080d8128-f447-47b4-8136-8dca9dc812c2 daco nef {daco daco-0.0.193-b462102 nef}} log ion-s-1-worker-01 DEBUG nef BCMT ID BCMT 2021-06-03T14:35:53.877Z  {getClientDRA[0], conn=true, must be connected=true} {} {0        []}}"}}
+{"type":"log","level":"INFO","time":"2021-06-03T14:35:54Z","log":{"message":"ZTS Response Error"}}
+
+
+
+
+
+more data...

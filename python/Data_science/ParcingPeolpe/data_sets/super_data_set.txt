@@ -1,0 +1,7 @@
+{'id': 1, 'first_name': 'Kristina', 'last_name': 'Hernandez', 'date_of_birth': '1965-10-20', 'country': 'Italy', 'married': True, 'job': 'Mechanical engineer', 'income_in_year': '121912$', 'total_property_cost': '1587894$'}
+{'id': 2, 'first_name': 'Allen', 'last_name': 'Hunt', 'date_of_birth': '1988-07-23', 'country': 'Italy', 'married': True, 'job': 'Restaurant manager', 'income_in_year': '88850$', 'total_property_cost': '1561161$'}
+{'id': 3, 'first_name': 'Eric', 'last_name': 'Petersen', 'date_of_birth': '1986-02-26', 'country': 'Poland', 'married': True, 'job': 'Broadcast presenter', 'income_in_year': '116648$', 'total_property_cost': '1766929$'}
+
+
+
+more data...
